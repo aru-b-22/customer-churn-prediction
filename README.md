@@ -16,7 +16,10 @@ Ever wondered why customers leave a business? This project dives into customer b
 - **Backend:** Flask (Python)
 - **Frontend:** HTML, CSS
 - **Machine Learning:** Scikit-learn, Random Forest, Logistic
-- **Data Processing:** Pandas, 
+- **Data Processing:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn
+
+
 ## 🤔 Why This Project Matters
 Every customer counts. This project empowers businesses to:
 - Identify customers likely to leave.
